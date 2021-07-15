@@ -3,7 +3,7 @@
     "description": "Helpers extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "helpers"],
-    "homepage": "https://github.com/laravel-admin-extensions/helpers",
+    "homepage": "https://github.com/BSTD-ru/laravel-admin-helpers",
     "license": "MIT",
     "authors": [
         {
